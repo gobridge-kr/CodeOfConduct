@@ -6,11 +6,6 @@ https://golang.org/conduct
 
 ## GoBridge Addendum
 
-### Words
-We have two different of word lists. The [bannedwords.txt](bannedwords.txt) file contains words that are not allowed in any context. The [flaggedwords.txt](flaggedwords.txt) file contains words that will alert admins so they can better understand the context.
-
-Expletives that are directed at other people will never be accepted.
-
 ### Name Policy
 The use of names that people use outside of the internet is important and fosters more community openness. We value names because our interactions are with real people, not some avatar or a username. We encourage all members use their full name when participating in our online communities.
 
