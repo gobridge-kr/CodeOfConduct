@@ -15,7 +15,7 @@ We also ask that members use login/usernames that are non-offensive. Your userna
 The use of full names in the [Go Forum](https://forum.golangbridge.org/) is preferred, but not required. People not using their full name will not be treated any differently from those who do.
 
 #### Gophers Slack
-The use of full names in the [Gophers Slack](https://gophersinvite.herokuapp.com/) account is required.
+The use of full names in the [Gophers Slack](http://slack.golangbridge.org/) account is required. Here is the invitation link: http://invite.slack.golangbridge.org
 
 ### Moderation
 Users should flag inappropriate behaviour to moderators or administrators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category.
