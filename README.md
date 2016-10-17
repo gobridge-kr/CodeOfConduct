@@ -12,10 +12,10 @@ The use of names that people use outside of the internet is important and foster
 We also ask that members use login/usernames that are non-offensive. Your username needn't be your full name, but should not contain offensive terms.
 
 #### Go Forum
-The use of full names in the [Go Forum](https://forum.golangbridge.org/) is preferred, but not required. People not using their full name will not be treated any differently from those who do.
+Here is the link to the [Go Forum](https://forum.golangbridge.org/).
 
 #### Gophers Slack
-The use of full names in the [Gophers Slack](http://slack.golangbridge.org/) account is required. Here is the invitation link: http://invite.slack.golangbridge.org
+Here is the invitation link to [Slack](http://invite.slack.golangbridge.org).
 
 ### Moderation
 Users should flag inappropriate behaviour to moderators or administrators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category.
@@ -80,7 +80,7 @@ Here is the list of people who are administrators for our online communities. If
 GoBridge (support@golangbridge.org)
 
 **GoBridge Core Team:**
-[Bryan Liles](https://twitter.com/bryanl), [Carlisia Campos](https://twitter.com/carlisia), [Cassandra Gil](https://twitter.com/Cassandraoid), [Edward Muller](https://twitter.com/freeformz) [Johnny Boursiquot](https://twitter.com/jboursiquot), [Luna Duclos](https://twitter.com/PSG_Luna), [William Kennedy](https://twitter.com/goinggodotnet)
+[Amy Chen](https://twitter.com/TheAmyDance), [Carlisia Campos](https://twitter.com/carlisia), [Cassandra Gil](https://twitter.com/Cassandraoid), [Edward Muller](https://twitter.com/freeformz), [Gunjan Patel](https://twitter.com/Gunjan_Patel1), [William Kennedy](https://twitter.com/goinggodotnet)
 
 **Administrators:**
-[Andy Walker](https://twitter.com/alaskacodes), [Brian Ketelsen](https://twitter.com/bketelsen), [Cory LaNou](https://twitter.com/corylanou), [Damian Gryski](https://twitter.com/dgryski), [Dominik Honnef](https://twitter.com/dominikhonnef), [Erik St. Martin](https://twitter.com/erikstmartin), [Ernesto Jimenez](https://twitter.com/ernesto_jimenez), [Florin Pățan](https://twitter.com/dlsniper), [Jason Moiron](https://twitter.com/jmoiron), [Johnny Boursiquot](https://twitter.com/jboursiquot), [Julia Allyce](https://twitter.com/julia_allyce), [Kevin Gillette](https://twitter.com/kevingillette), [Kristoffer Berdal](https://twitter.com/flexd), [Levi Cook](https://twitter.com/levicook), [Matt Holt](https://twitter.com/mholt6), [Nathan Youngman](https://twitter.com/nathany), [Sarah Adams](https://twitter.com/sadamscodes), [Satish Talim](https://twitter.com/IndianGuru), [Trevor Bramble](https://twitter.com/TrevorBramble)
+[Andy Walker](https://twitter.com/alaskacodes), [Brian Ketelsen](https://twitter.com/bketelsen), [Bryan Liles](https://twitter.com/bryanl), [Cory LaNou](https://twitter.com/corylanou), [Damian Gryski](https://twitter.com/dgryski), [Dominik Honnef](https://twitter.com/dominikhonnef), [Erik St. Martin](https://twitter.com/erikstmartin), [Ernesto Jimenez](https://twitter.com/ernesto_jimenez), [Florin Pățan](https://twitter.com/dlsniper), [Jason Moiron](https://twitter.com/jmoiron), [Johnny Boursiquot](https://twitter.com/jboursiquot), [Julia Allyce](https://twitter.com/julia_allyce), [Kevin Gillette](https://twitter.com/kevingillette), [Kristoffer Berdal](https://twitter.com/flexd), [Levi Cook](https://twitter.com/levicook), [Luna Duclos](https://twitter.com/PSG_Luna), [Matt Holt](https://twitter.com/mholt6), [Nathan Youngman](https://twitter.com/nathany), [Sarah Adams](https://twitter.com/sadamscodes), [Satish Talim](https://twitter.com/IndianGuru), [Trevor Bramble](https://twitter.com/TrevorBramble)
