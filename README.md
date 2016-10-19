@@ -2,7 +2,7 @@
 
 GoBridge uses the Go CoC as our base document:
 
-https://golang.org/conduct
+[Go CoC](https://golang.org/conduct) | [Go Forum](https://forum.golangbridge.org/) | [Gophers Slack](http://invite.slack.golangbridge.org)
 
 ## GoBridge Addendum
 
@@ -11,11 +11,8 @@ The use of names that people use outside of the internet is important and foster
 
 We also ask that members use login/usernames that are non-offensive. Your username needn't be your full name, but should not contain offensive terms.
 
-#### Go Forum
-Here is the link to the [Go Forum](https://forum.golangbridge.org/).
-
-#### Gophers Slack
-Here is the invitation link to [Slack](http://invite.slack.golangbridge.org).
+### Language Policy
+We are working hard to keep the public spaces family friendly and as inclusive as possible. At the admins discretion, words that are deemed inappropriate or offensive will be moderated. Please reach out to the admin group for a list of words that are being moderated.
 
 ### Moderation
 Users should flag inappropriate behaviour to moderators or administrators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category.
