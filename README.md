@@ -6,11 +6,6 @@ GoBridge uses the Go CoC as our base document:
 
 ## GoBridge Addendum
 
-### Name Policy
-The use of names that people use outside of the internet is important and fosters more community openness. We value names because our interactions are with real people, not some avatar or a username. We encourage all members use their full name when participating in our online communities.
-
-We also ask that members use login/usernames that are non-offensive. Your username needn't be your full name, but should not contain offensive terms.
-
 ### Language Policy
 We are working hard to keep the public spaces family friendly and as inclusive as possible. At the admins discretion, words that are deemed inappropriate or offensive will be moderated. Please reach out to the admin group for a list of words that are being moderated.
 
