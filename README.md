@@ -6,10 +6,10 @@ GoBridge uses the Go CoC as our base document:
 
 ## GoBridge Addendum
 
-### Name Policy
-The use of names that people use outside of the internet is important and fosters more community openness. We value names because our interactions are with real people, not some avatar or a username. We encourage all members use their full name when participating in our online communities.
+### Real Names
+If you feel comfortable, we encourage you to use your real name in GoBridge online communities. We find it encourages openness and civility in discussions. However, this is not a requirement.
 
-We also ask that members use login/usernames that are non-offensive. Your username needn't be your full name, but should not contain offensive terms.
+Admins may ask users to change their name / username if it conflicts with known public figures, impersonates other people, sounds like automated tools, contains inappropriate language, or other unclear cases.
 
 ### Language Policy
 We are working hard to keep the public spaces family friendly and as inclusive as possible. At the admins discretion, words that are deemed inappropriate or offensive will be moderated. Please reach out to the admin group for a list of words that are being moderated.
@@ -61,7 +61,7 @@ If someone is subject to or witnesses unacceptable behavior, or has any other co
 
 
 #### Administrators
-Here is the list of people who are administrators for our online communities. If you have any issues or need help, please feel free to reach out to anyone on this list.
+Below is the list of people who are administrators for our online communities. If you have any issues or need help, please feel free to reach out to anyone on this list. There is also the public `admin-help` channel on Slack where people can get help or clarification on any admin related issues.
 
 **The role of GoBridge: (Core Team):**
 - They are the stewards for the different online communities.
