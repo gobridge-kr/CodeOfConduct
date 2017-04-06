@@ -6,6 +6,9 @@ GoBridge uses the Go CoC as our base document:
 
 ## GoBridge Addendum
 
+### Real Names
+If you feel comfortable, we encourage you to use your real name in GoBridge online communities. We find it encourages openness and civility in discussions. However, this is not a requirement.
+
 ### Language Policy
 We are working hard to keep the public spaces family friendly and as inclusive as possible. At the admins discretion, words that are deemed inappropriate or offensive will be moderated. Please reach out to the admin group for a list of words that are being moderated.
 
