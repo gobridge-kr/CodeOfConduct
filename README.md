@@ -77,7 +77,7 @@ Below is the list of people who are administrators for our online communities. I
 GoBridge (support@golangbridge.org)
 
 **GoBridge Core Team:**
-[Carlisia Campos](https://twitter.com/carlisia), [Cassandra Gil](https://twitter.com/Cassandraoid), [Edward Muller](https://twitter.com/freeformz), [Florin Pățan](https://twitter.com/dlsniper), [Gunjan Patel](https://twitter.com/Gunjan_Patel1), [William Kennedy](https://twitter.com/goinggodotnet)
+[Carlisia Campos](https://twitter.com/carlisia), [Cassandra Gil](https://twitter.com/Cassandraoid), [Edward Muller](https://twitter.com/freeformz), [Florin Pățan](https://twitter.com/dlsniper), [Gunjan Patel](https://twitter.com/Gunjan_Patel1), [Johnny Boursiquot](https://twitter.com/jboursiquot), [William Kennedy](https://twitter.com/goinggodotnet)
 
 **Administrators:**
 [Amy Chen](https://twitter.com/TheAmyDance), [Andy Walker](https://twitter.com/alaskacodes), [Brian Ketelsen](https://twitter.com/bketelsen), [Bryan Liles](https://twitter.com/bryanl), [Damian Gryski](https://twitter.com/dgryski), [Erik St. Martin](https://twitter.com/erikstmartin), [Ernesto Jimenez](https://twitter.com/ernesto_jimenez), [Jason Moiron](https://twitter.com/jmoiron), [Johnny Boursiquot](https://twitter.com/jboursiquot), [Julia Allyce](https://twitter.com/julia_allyce), [Kevin Gillette](https://twitter.com/kevingillette), [Kristoffer Berdal](https://twitter.com/flexd), [Levi Cook](https://twitter.com/levicook), [Luna Duclos](https://twitter.com/PSG_Luna), [Matt Holt](https://twitter.com/mholt6), [Nathan Youngman](https://twitter.com/nathany), [Sarah Adams](https://twitter.com/sadamscodes), [Satish Talim](https://twitter.com/IndianGuru), [Trevor Bramble](https://twitter.com/TrevorBramble)
