@@ -81,7 +81,6 @@ GoBridge (support@golangbridge.org)
 [Cassandra Gil](https://twitter.com/Cassandraoid),
 [Edward Muller](https://twitter.com/freeformz),
 [Florin Pățan](https://twitter.com/dlsniper),
-[Gunjan Patel](https://twitter.com/Gunjan_Patel1),
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [William Kennedy](https://twitter.com/goinggodotnet)
 
