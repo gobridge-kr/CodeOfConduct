@@ -98,4 +98,5 @@ GoBridge (support@golangbridge.org)
 [Levi Cook](https://twitter.com/levicook),
 [Nathan Youngman](https://twitter.com/nathany),
 [Scott Mansfield](https://twitter.com/sgmansfield),
+[Tim Heckman](https://twitter.com/theckman),
 [Trevor Bramble](https://twitter.com/TrevorBramble)
