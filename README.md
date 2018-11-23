@@ -4,7 +4,7 @@
 
 GoBridge 행동 강령은 Go 행동 강령을 토대로 합니다.
 
-[Go 행동강령](https://github.com/gobridge-kr/go-community-code-of-conduct) | [Go 포럼](https://forum.golangbridge.org/) | [Gopher 슬랙](http://invite.slack.golangbridge.org) | [GoBridge Seoul](https://gobridgeseoul.slack.com/)
+[Go 행동강령](https://github.com/gobridge-kr/go-community-code-of-conduct) | [Go 포럼](https://forum.golangbridge.org/) | [Gopher 슬랙](http://invite.slack.golangbridge.org) | [GoBridge Seoul](https://gobridge-seoul-invitation.herokuapp.com/)
 
 ## GoBridge 부록
 
